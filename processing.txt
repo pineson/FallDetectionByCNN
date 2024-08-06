@@ -1,0 +1,7 @@
+using 10hz only, accel only
+use the +/-20 data around the maximum, so it is 4 seconds, 2 senconds before and 2 after
+some files do not meet the +/-20, they are given up.
+in D group there will be a lot, but in F series there are some as well, will check late
+flow the instruction from https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification/
+using dstack
+using np.concatenate to combine F01-F08
