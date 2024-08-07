@@ -8,3 +8,8 @@ using np.concatenate to combine F01-F08
 first try 
 Test loss: 0.3508, Test accuracy: 0.8634
 investigate D05 and D07
+true:false=374:805-374
+change to 374:704-374
+Test loss: 0.2061, Test accuracy: 0.9007
+cancel D05, make the true and false balance, the accuracy close to 0.9
+use code from the website
