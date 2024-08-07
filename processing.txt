@@ -5,3 +5,6 @@ in D group there will be a lot, but in F series there are some as well, will che
 flow the instruction from https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification/
 using dstack
 using np.concatenate to combine F01-F08
+first try 
+Test loss: 0.3508, Test accuracy: 0.8634
+investigate D05 and D07
