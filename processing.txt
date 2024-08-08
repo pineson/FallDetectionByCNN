@@ -16,3 +16,4 @@ use code from the website
 scale
 after scale 
 Accuracy: 93.472% (+/-1.325)
+try adjust filters and kernels
