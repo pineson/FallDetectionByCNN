@@ -17,3 +17,11 @@ scale
 after scale 
 Accuracy: 93.472% (+/-1.325)
 try adjust filters and kernels
+f01-F08 have some not like fall 
+D03,04 has some very similar to fall
+D05 more like fall
+D06 some similar to fall
+D07 some like fall, D08
+D09 very similar
+D10 1 or 2 look like
+D11 some like fall
