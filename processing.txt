@@ -25,3 +25,4 @@ D07 some like fall, D08
 D09 very similar
 D10 1 or 2 look like
 D11 some like fall
+consider add std to filter real fall, the max5's std >5?
